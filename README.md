@@ -19,6 +19,8 @@ To run and test these files you'll need to have Eclipse installed along with CDT
 
 Test results should now appear on the bottom tab.
 
+IMPORTANT: Before building, make sure that Eclipse is using the latest version of C++ (C++11), otherwise you might not be able to run my code. You can find tutorials on stackoverflow! 
+
 # Note
 
 If you happen to come across this repository, please take into consideration that I'm pretty much a beginner when it comes to programming. As stated above, this repository's only goal is to share my code with my fellow students and get accostumed to this platform, nothing else. However, if you have any suggestion when it comes to my structure, coding style, etc, feel free to contact me!
