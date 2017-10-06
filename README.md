@@ -7,6 +7,7 @@ AEDA (Algorythims and Data Structures in C++) is a second grade subject of FEUP'
 Each folder represents a class and cointains all files needed to run the code. Here I'll give a quick explanation of what they mean, and update this section as necessary.
 
 - TP1: Implementation of class ParqueEstacionamento (parking lot) - using classes, const members, references, etc.
+- TP2: Implementation of class Zoo and related classes as well - using heritance, polymorphism, pointers, static members, etc. NOTE: the text file should be in your project's root folder, not src.
 
 # Usage
 
