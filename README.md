@@ -8,6 +8,7 @@ Each folder represents a class and cointains all files needed to run the code. H
 
 - TP1: Implementation of class ParqueEstacionamento (parking lot) - using classes, const members, references, etc.
 - TP2: Implementation of class Zoo and related classes as well - using heritance, polymorphism, pointers, static members, etc. NOTE: the text file should be in your project's root folder, not src.
+- TP3: Implementation of class Grafo - using templates, exceptions, streams, etc.
 
 # Usage
 
