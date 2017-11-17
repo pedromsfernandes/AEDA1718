@@ -15,6 +15,7 @@ Each folder represents a class and cointains all files needed to run the code. H
 - CI1-PP-2013: Resolution of the first exam of 2013.
 - TP6: Working with lists.
 - TP7: Working with stacks and queues.
+- CI2-PP-2016: Resolution of the second exam of 2016. 
 
 # Usage
 
